@@ -52,9 +52,9 @@ export const FEATURES: Feature[] = [
 ];
 
 export const DEV_INFO: Developer = {
-  name: "عدي قطقط",
-  role: "مطور برمجيات أول ومصمم واجهات",
-  bio: "مطور برمجيات شغوف بابتكار حلول تقنية تدمج بين الذكاء الاصطناعي والتصميم العصري. OD مهام هو رؤيتي لتطوير الإنتاجية العربية بأعلى المعايير العالمية.",
+  name: "عُدي قطقط",
+  role: "خبير هندسة برمجيات وتجربة مستخدم",
+  bio: "مطور برمجيات شغوف بخلق تجارب رقمية استثنائية. أؤمن أن التكنولوجيا يجب أن تكون جميلة بقدر ما هي مفيدة. قمت بتطوير OD مهام ليكون المعيار الجديد للإنتاجية في الوطن العربي.",
   email: "oday5qutqut@gmail.com",
-  avatar: "https://api.dicebear.com/7.x/notionists/svg?seed=Oday&backgroundColor=b6e3f4"
+  avatar: "https://api.dicebear.com/7.x/notionists/svg?seed=Oday&backgroundColor=c0aede"
 };
